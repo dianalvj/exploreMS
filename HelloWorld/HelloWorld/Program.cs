@@ -9,7 +9,7 @@ namespace HelloWorld
             Console.WriteLine("Hello World!");
             // Console.WriteLine("Hello VS Team!"); 
             // Adding comments to test commit from GH
-            
+            Console.WriteLine("Adding markdown and emojis");
         }
     }
 }
