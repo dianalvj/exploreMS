@@ -8,6 +8,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello VS Team!");
+            Console.WriteLine("Commiting from VS to GH and adding markdown/emojis");
         }
     }
 }
